@@ -2,7 +2,7 @@
 - 🐟 I'm a fresh graduate majoring in fisheries science
 - 🐡 I’m interested in data science/statistics
 - 🦀 I’m currently learning machine learning
-- 🦑 I'm glad to collaborate with you on business/medical/ecological data 
+- 🦑 I'm glad to collaborate with anyone on business/medical/ecological data 
 - 📫 How to reach me: johnson2235@gmail.com
 
 <!---
